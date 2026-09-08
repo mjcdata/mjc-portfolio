@@ -12,14 +12,14 @@ export default function Projects() {
           title="Retail Revenue Intelligence"
           description="An interactive Tableau dashboard analyzing retail revenue performance, customer behavior, product trends, returns, and international market performance using the UCI Online Retail II dataset."
           link="https://public.tableau.com/views/RetailRevenueIntelligence/RetailRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
-          imgSrc="/mjc-portfolio/images/revenue.png"
+          imgSrc="/images/revenue.png"
           altText="Retail Revenue Intelligence Dashboard"
         />
         <ProjectItems
           title="UMSL Basketball Analysis"
           description="An interactive dashboard designed for the UMSL basketball team, enabling coaches and analysts to explore player performance metrics through dynamic scatterplots. This tool provides actionable insights for optimizing game strategies."
           link="https://umsl-bball.streamlit.app"
-          imgSrc="/mjc-portfolio/images/umsl-bball.png"
+          imgSrc="/images/umsl-bball.png"
           altText="UMSL Basketball Analysis"
         />
         </div>
