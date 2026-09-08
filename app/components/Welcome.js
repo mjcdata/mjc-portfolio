@@ -9,7 +9,7 @@ export default function Welcome() {
       <h2 className="text-3xl font-semibold text-center">
         Welcome to my{' '}
         <Link href="#projects" className="text-lime-500">
-          <span className="hover:scale-105 animate-pulse inline-block transform transition-transform duration-300">
+          <span className="hover:scale-105 inline-block transform transition-transform duration-300">
             portfolio
           </span>
         </Link>
