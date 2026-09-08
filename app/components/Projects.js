@@ -7,6 +7,7 @@ export default function Projects() {
 
     <section id="projects" className="mb-8 p-6 sm:mb-8 lg:mb-12 bg-lime-500 rounded-lg shadow-md pt-14 w-full">
       <h2 className="text-3xl font-semibold text-black mb-4 border-b-2 border-black pb-2">Projects</h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 mt-4"> 
         <ProjectItems
           title="Retail Revenue Intelligence"
           description="An interactive Tableau dashboard analyzing retail revenue performance, customer behavior, product trends, returns, and international market performance using the UCI Online Retail II dataset."
@@ -14,7 +15,6 @@ export default function Projects() {
           imgSrc="/images/revenue.png"
           altText="Retail Revenue Intelligence Dashboard"
         />
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
         <ProjectItems
           title="UMSL Basketball Analysis"
           description="An interactive dashboard designed for the UMSL basketball team, enabling coaches and analysts to explore player performance metrics through dynamic scatterplots. This tool provides actionable insights for optimizing game strategies."
@@ -22,8 +22,7 @@ export default function Projects() {
           imgSrc="/images/umsl-bball.png"
           altText="UMSL Basketball Analysis"
         />
-
-      </div>
+        </div>
     </section>
   );
 }
