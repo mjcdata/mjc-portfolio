@@ -1,5 +1,3 @@
-'use client';
-
 import localFont from "next/font/local";
 import "./globals.css";
 import MaxWidthWrapper from './components/max-width-wrapper';
@@ -10,29 +8,32 @@ const geistSans = localFont({
   variable: "--font-geist-sans",
   weight: "100 900",
 });
+
 const geistMono = localFont({
   src: "./fonts/GeistMonoVF.woff",
   variable: "--font-geist-mono",
   weight: "100 900",
 });
 
-export default function RootLayout({ children }) {
+export const metadata = {
+  title: 'Malcolm Connor | Data Analyst',
+  description: 'Data analytics portfolio of Malcolm Connor',
+  icons: {
+    icon: '/images/mtablogo.png',
+  },
+};
 
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <MaxWidthWrapper>
           <Navbar />
-            <main className="flex-1">
-              {children}</main>
+          <main className="flex-1">
+            {children}
+          </main>
         </MaxWidthWrapper>
       </body>
     </html>
   );
 }
-
-
-
-
-
-
