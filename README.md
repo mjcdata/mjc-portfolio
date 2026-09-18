@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="public/images/mlogo.svg" alt="Malcolm Connor Logo" width="250">
-</p>
+![Data Analytics Portfolio Banner](public/images/banner.png)
 
 # My Portfolio
 
