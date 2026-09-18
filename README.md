@@ -40,6 +40,7 @@ My data analytics projects also demonstrate experience with technologies includi
 - **Jupyter Notebook / Google Colab**
 
 ## Projects
+**[View Projects on Portfolio](https://malcolmjconnor.com)**
 
 ### Healthcare Claims Intelligence
 
@@ -49,7 +50,6 @@ The project includes data generation, data profiling, data quality assessment, c
 
 The analysis identified outpatient procedures as the largest allowed cost category and evaluated the cost impact of shifting eligible out-of-network utilization toward in-network providers.
 
-**[View Project on Portfolio](https://malcolmjconnor.com)**
 
 ### Retail Revenue Intelligence
 
@@ -57,13 +57,11 @@ An end-to-end retail analytics project analyzing transactional e-commerce data t
 
 The project includes data profiling, cleaning, business analysis, documentation, and an interactive Tableau dashboard designed to communicate key revenue insights.
 
-**[View Project on Portfolio](https://malcolmjconnor.com)**
 
 ### UMSL Basketball Analysis
 
 An interactive basketball analytics dashboard created to explore player performance through metrics such as three-point percentage and playing time.
 
-**[View Project on Portfolio](https://malcolmjconnor.com)**
 
 
 
