@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/mlogo.svg" alt="Malcolm Connor Logo" width="300">
+  <img src="public/images/mlogo.svg" alt="Malcolm Connor Logo" width="250">
 </p>
 
 # My Portfolio
