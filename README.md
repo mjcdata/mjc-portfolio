@@ -1,4 +1,6 @@
-![Malcolm Connor Logo](public/images/mlogo.svg)
+<p align="center">
+  <img src="public/images/mlogo.svg" alt="Malcolm Connor Logo" width="300">
+</p>
 
 # My Portfolio
 
