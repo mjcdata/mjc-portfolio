@@ -1,8 +1,6 @@
 ![Data Analytics Portfolio Banner](public/images/banner.png)
 
-# My Portfolio
-
-Welcome to my portfolio. This repository contains the source code for my personal portfolio website, where I showcase my data analytics projects, technical skills, and professional experience.
+This repository contains the source code for my personal portfolio website, where I showcase my data analytics projects, technical skills, and professional experience.
 
 **Live Portfolio:** [malcolmjconnor.com](https://malcolmjconnor.com)
 
